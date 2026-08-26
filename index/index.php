@@ -21,3 +21,17 @@
             <a href="../public/clientes/cadastrarclientes.php">
                 Cadastrar Cliente
             </a>
+             <a href="../public/animais/cadastraranimais.php">
+                Cadastrar Animal
+            </a>
+
+            <a href="../public/animais/listaranimais.php">
+                Listar Animais
+            </a>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
