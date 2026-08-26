@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "patinhas";
+$database = "pet_shop_do_jango";
 
 $conexao = new mysqli($host, $user, $password, $database);
 
