@@ -8,3 +8,16 @@
     <title>AUmigos Pet Shop</title>
     <link rel="stylesheet" href="../style/style.css">
 </head>
+<body>
+
+    <div class="container">
+
+        <h1>🐾 AUmigos Pet Shop</h1>
+
+        <h2>Gerenciamento do Sistema</h2>
+
+        <div class="menu">
+
+            <a href="../public/clientes/cadastrarclientes.php">
+                Cadastrar Cliente
+            </a>
