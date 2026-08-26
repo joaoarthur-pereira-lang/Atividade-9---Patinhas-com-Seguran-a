@@ -7,3 +7,8 @@ CREATE TABLE clientes (
     email VARCHAR(100) UNIQUE NOT NULL,
     senha VARCHAR(255) NOT NULL
 );
+
+CREATE TABLE animais (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome_animal VARCHAR(100) NOT NULL,
+    especie VARCHAR(50) NOT NULL,
